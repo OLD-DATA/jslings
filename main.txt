@@ -1,4 +1,11 @@
 we have this written as a rust project that compiles as well to help you in js so we need you to 
-run this command to run the exe "./jslings/target/debug/jslings"
+run this command to run the exe "./jslings/target/debug/x86_64-pc-windows-gnu/debug/jslings.exe"
 to install this you need to
-1:click on jslings-src -> target -> debug & you will se a file named 
+1:click on jslings-src -> target -> debug -> x86_64-pc-windows-gnu -> debug 
+you will se a file named jslings.exe
+2: right click on the exe & copy the file path
+3:search for system(control pannel)
+4:click new system variable
+5:click new & paste your file path
+6: go to cmd & enter "jslings", it should start up jslings
+7: if it is not working talk to your local jslings representative 
